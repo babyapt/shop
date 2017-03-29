@@ -42,7 +42,7 @@
 $(document).ready(function(){
 	$('.mymenu>.row>div').on('click',function(e){
 			e.preventDefault();
-			location.href=$(this).data('href');
+			location.href=$(this).data('href'); 
 	})
 });
 </script>

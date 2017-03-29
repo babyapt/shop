@@ -71,7 +71,7 @@
 				font-size: 3em;
 				transition-duration: .3s;
 				text-align: center;
-				padding-top: 10vh;
+				padding-top: 12vh;
 			}
 			.mymenu>.row>div:hover {
 				text-shadow: 0 0 20px #FFF, 0 0 20px #FFF;
